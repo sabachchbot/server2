@@ -171,7 +171,7 @@ $ops=getJam($nm);
 $site=' ';
 $true=$ops.'
  '.$ips.'
- Site ➬ saba-server1.tk  '.$site;
+ Site ➬ saba-server2.tk  '.$site;
 
 return $true;
 }
